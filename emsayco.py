@@ -1,4 +1,4 @@
-# coder: https://t.me/saycou
+# coder: https://t.me/aissx_ach
 
 import os
 try:
