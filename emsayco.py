@@ -1,5 +1,3 @@
-# coder: https://t.me/aissx_ach
-
 import os
 try:
                              import random,time,mechanize
